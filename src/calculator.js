@@ -1,4 +1,4 @@
-exports._check = () => {
+exports._null = () => {
   // DRY up the codebase with this function
   // First, move the duplicate error checking code here
   // Then, invoke this function inside each of the others
